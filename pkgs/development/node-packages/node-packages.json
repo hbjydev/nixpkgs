@@ -32,6 +32,7 @@
 , "coc-lists"
 , "coc-metals"
 , "coc-pairs"
+, "coc-phpls"
 , "coc-prettier"
 , "coc-python"
 , "coc-r-lsp"
